@@ -3,7 +3,6 @@ body{
    display: flex;
    align-items: center;
    justify-content: center;
-   height: 100vh;
    color: white;
    /* border: 1px solid red; */
 }
@@ -18,6 +17,10 @@ h1{
     flex-direction: column;
     align-items: center;
     /* margin-top: 35vh; */
+   height: 100vh;
+   width: 80vw;
+   justify-content: center;
+    
 }
 .play_button{
     background-color: rgb(12, 178, 12);

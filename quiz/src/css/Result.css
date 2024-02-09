@@ -12,7 +12,7 @@ h2{
 .dialogue_box{
     background-color: white;
     width: 80vw;
-    height: 50vh;
+    /* height: 50vh; */
 }
 
 .dialogue_box h2{
@@ -42,6 +42,7 @@ h2{
 }
 .button{
     margin-left: 20px;
-    background-color: white;
+    background-color: grey;
     color: black;
+    margin-bottom: 15px;
 }
